@@ -1,0 +1,23 @@
+{
+    "Name": "Rajganesh.S",
+    "Graduation":"B.E.,CSE",
+    "Title": "FSD Learner",
+    "Email": "ganezsouth@live.com",
+    "Phone": "8838539223",
+    "City":"Coimbatore",
+    "State":"Tamilnadu",
+    "Blood Group": "O+ Positive",
+    "Summary": "I am passionate about learning Web Application",
+    "Skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Redux",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+    ]
+    }
